@@ -15,7 +15,7 @@ Este projeto analisa dados de consumo ao longo de 42 dias para identificar padr�
 
 ---
 
-## 📈 Solução
+## Solução
 
 - Tratamento e organização dos dados
 - Análise exploratória (EDA)
@@ -24,7 +24,7 @@ Este projeto analisa dados de consumo ao longo de 42 dias para identificar padr�
 
 ---
 
-## 📌 Principais resultados
+## Principais resultados
 
 - Dados simulados não apresentaram padrão temporal relevante  
 - Em dados reais, foram observados padrões consistentes de consumo  
@@ -32,7 +32,7 @@ Este projeto analisa dados de consumo ao longo de 42 dias para identificar padr�
 
 ---
 
-## 🧠 Tecnologias
+## Tecnologias
 
 - Python (Pandas, NumPy)
 - Seaborn, Matplotlib
