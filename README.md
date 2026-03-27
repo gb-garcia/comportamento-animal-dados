@@ -28,7 +28,12 @@ Este projeto analisa dados de consumo ao longo de 42 dias para identificar padr�
 
 - Dados simulados não apresentaram padrão temporal relevante  
 - Em dados reais, foram observados padrões consistentes de consumo  
-- O modelo capturou variações individuais entre os animais  
+- O modelo capturou variações individuais entre os animais
+
+- <img width="841" height="466" alt="image" src="https://github.com/user-attachments/assets/e2e6adfc-dac6-4987-b1fc-de1f69264934" />
+<img width="842" height="467" alt="image" src="https://github.com/user-attachments/assets/53373387-f5b2-4801-9435-3c446e925119" />
+
+
 
 ---
 
